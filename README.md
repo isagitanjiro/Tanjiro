@@ -36,7 +36,7 @@ As a community moderator and builder, I actively support the ZenChain ecosystem 
 
 ## 🌟 Goals with ZenChain
 - Build more user-friendly tools to **grow the ZenChain ecosystem**.  
-- Help onboard new devs via tutorials, scripts, and community support.  
+- Help onboard new users and devs via tutorials, scripts, and community support.  
 - Participate in bounties, grants, and hackathons on ZenChain.
 
 
