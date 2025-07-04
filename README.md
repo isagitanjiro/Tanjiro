@@ -17,6 +17,9 @@ As a community moderator and builder, I actively support the ZenChain ecosystem 
 
 - ⚙️ **Coming Soon:**  
   - Simple front-end dApp dashboards for ZenChain stats.
+  - 💎 Easier staking mechanism
+   - Simple CLI & Telegram integrations for staking ZC on testnet.
+   -Designed to help users and devs test staking contracts easily.
 
 
 ## 🔥 Why ZenChain?
