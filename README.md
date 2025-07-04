@@ -24,7 +24,7 @@ As a community moderator and builder, I actively support the ZenChain ecosystem 
 
 ## 🔥 Why ZenChain?
 - Love the focus on **DeFi & cross-chain bridging**.  
-- Excited by the builder-first approach & upcoming tools.  
+- Excited by the builder approach & upcoming tools.  
 - Want to contribute both as a **developer & community leader** to drive adoption.
 
 
