@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Tanjiro
 
-🚀 **Community Moderator & Builder at [ZenChain](https://www.zenchain.io/))**  
+🚀 **Community Moderator & Builder at [ZenChain](https://www.zenchain.io/)**  
 🐍 **Python Developer | Web3 Enthusiast | Telegram Bot Architect**
 
 
