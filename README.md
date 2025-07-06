@@ -10,7 +10,7 @@ As a community moderator and builder, I actively support the ZenChain ecosystem 
 
 
 ## 🛠️ What I'm Building for ZenChain
-- ✅ **ZenChain Telegram Bot[ZenWatcher](https://t.me/zenchain_watcher_bot)(Ready to Run)**  
+- ✅ **ZenChain Telegram Bot [ZenWatcher](https://t.me/zenchain_watcher_bot) (Ready to Run)**  
   - Tracks transactions on ZenChain (new tx alerts, balance checks).  
   - Telegram Faucet system to onboard new users with test ZTC.  
   - Automated giveaway(In ZTC testnet tokens) & stats modules.
