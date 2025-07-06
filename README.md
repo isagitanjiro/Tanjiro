@@ -34,7 +34,7 @@ As a community moderator and builder, I actively support the ZenChain ecosystem 
 - **Frameworks & Tools:** Web3.py, Hardhat, VS Code, Docker, Git
 
 
-## 🌟 Goals with ZenChain
+## 🌟 Goals with ZenChain as a Builder
 - Build more user-friendly tools to **grow the ZenChain ecosystem**.  
 - Help onboard new users and devs via tutorials, scripts, and community support.  
 - Participate in bounties, grants, and hackathons on ZenChain.
